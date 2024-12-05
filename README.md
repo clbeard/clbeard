@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in several different languages.
 - 🌱 I’m currently learning python and c#.
 - 💞️ I’m looking to collaborate on many different projects in the future.
-- 📫 Reach me at my email clbeard@mymail.tstc.edu
+- 📫 Reach me at my email cbeard@hartford.edu
 
 <!---
 clbeard/clbeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
